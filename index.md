@@ -23,7 +23,7 @@ git commit -m "Commit message"
 git push origin main
 ```
 
-Here is a [link to my portfolio](https://github.com/peterjhyoon).
+Here is a [link to my profile](https://github.com/peterjhyoon).
 
 The top 3 things that I'm excited about in this course are:
 1. Learning the fundamentals of Software Engineering
