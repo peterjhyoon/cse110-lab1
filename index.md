@@ -43,3 +43,5 @@ This is another [link](/secondary.md) to a second markdown file.
 - [x] Review syllabus
 - [ ] Submit Lab 1
 - [ ] Contact Prof. Powell
+
+![Macbook](macbook.jpg)
